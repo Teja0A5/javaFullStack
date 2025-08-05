@@ -32,8 +32,6 @@ public class Switch {
 			break;
 			default:
 				System.out.println("Enter the correct value");
-			
-			
 		}
 		
 			
